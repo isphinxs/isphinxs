@@ -4,7 +4,7 @@ I work at the intersection of science education, outreach, and program managemen
 
 ## Projects
 
-**Goodtheater** [Front-end](https://github.com/isphinxs/theater-client) | [Back-End](https://github.com/isphinxs/theater-api) | [Demo](https://youtu.be/sqfp5cil7Gs)
+**Goodtheater** [Front-end](https://github.com/isphinxs/theater-client) | [Back-End](https://github.com/isphinxs/theater-api) | [Demo](https://youtu.be/sqfp5cil7Gs) | [Live App](https://objective-swirles-ad93b5.netlify.app/)
 Theater cataloging website allowing enthusiasts to find and save their favorite musicals and plays
 
 **Scheduling Calendar** [Front-end](https://github.com/isphinxs/schedule-master-client) | [Back-End](https://github.com/isphinxs/schedule-master-api) | [Demo](https://youtu.be/01o8uhuOkLk) | [Live App](https://isphinxs.github.io/schedule-master-client/)
