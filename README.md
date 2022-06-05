@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I work at the intersection of science education, outreach, and program management to make positive change in the world. With experience in environmental studies, publishing, and software engineering, I enjoy shepherding both technical projects and more complex, mission-driven ventures—and developing processes to make those programs more efficient and easier to manage. In grad school I was exposed to programming through ArcGIS and have been coding in my spare time ever since.
+I am a full-stack software engineer experienced in React, Rails, and Angular. With a background in environmental studies, science education, and publishing, I enjoy shepherding both technical projects and more complex, mission-driven ventures to make positive change in the world. In grad school I was exposed to programming through ArcGIS and have been coding in my spare time ever since.
 
 ## Projects
 
@@ -28,7 +28,7 @@ Publication advance tracking system allowing authors to self-report compensation
 
 ### Frameworks
 
-![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
 
 ## Stats
 
