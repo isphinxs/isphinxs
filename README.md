@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a full-stack software engineer experienced in React, Rails, and Angular. With a background in environmental studies, science education, and publishing, I enjoy shepherding both technical projects and more complex, mission-driven ventures to make positive change in the world. In grad school I was exposed to programming through ArcGIS and have been coding in my spare time ever since.
+I am a full-stack software engineer experienced in Angular, React, and Rails, with a background in environmental studies, science education, and publishing. In grad school I was exposed to programming through ArcGIS and have been coding in my spare time ever since.
 
 ## Projects
 
@@ -18,7 +18,7 @@ Publication advance tracking system allowing authors to self-report compensation
 
 ## Get in Touch
 
-[LinkedIn](https://www.linkedin.com/in/sam-ostrowski/) | [Medium](https://medium.com/@isphinxs)
+[Website](https://sam-ostrowski.com/) | [LinkedIn](https://www.linkedin.com/in/sam-ostrowski/) | [Medium](https://medium.com/@isphinxs)
 
 ## Skills
 
