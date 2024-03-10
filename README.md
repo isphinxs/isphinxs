@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a full-stack software engineer experienced in Angular, React, and Rails, with a background in environmental studies, science education, and publishing. In grad school I was exposed to programming through ArcGIS and have been coding in my spare time ever since.
+I am a full-stack software engineer experienced in TypeScript, Angular, React, and Rails, with a background in environmental studies, science education, and publishing. In grad school I was exposed to programming through ArcGIS and have been coding in my spare time ever since.
 
 ## Projects
 
